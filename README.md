@@ -265,8 +265,10 @@ Figma
 
 ```
 
-## OUTPUT:
-![Uploading Screenshot 2024-12-21 091122.png…]()
+## OUTPUT
+
+![Screenshot 2024-12-21 091122](https://github.com/user-attachments/assets/881af352-481b-47ea-84bb-6d027ddf6dfd)
+
 
 
 ## RESULT:
